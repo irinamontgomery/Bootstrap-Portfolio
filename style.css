@@ -1,0 +1,109 @@
+html {
+    background-repeat: repeat;
+    padding: 0px;
+    margin: 0;
+}
+
+body {
+    background: url(images/gravel.png);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: block;
+    border-bottom: 3px solid #ccc;
+    color: #777;
+    font-size: 18px;
+    width: 960px;
+    background: #fff;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.header {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+
+
+nav ul {
+    float: right;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li a {
+    color: #777;
+    text-decoration: none;
+}
+
+main {
+    width: 960px;
+    height: 100%;
+    font-size: 18px;
+    align-content: center;
+    color: #777;
+    padding: 25px;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #fff;
+    margin: 16px auto 92px auto;
+}
+
+#irina {
+    height: 225px;
+    width: 175px;
+}
+
+.irina {
+    font-size: 28px;
+    padding: 25px;
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: bold;
+
+}
+
+section {
+    border-top: 3px solid #ddd;
+    padding: 20px 0px 20px 0px
+}
+
+.newbox {
+    width: 250px;
+    height: 175px;
+    margin: 30px;
+}
+
+.post-content {
+    position: relative;
+    width: 250px;
+    bottom: 0px;
+    text-align: center;
+    background-color: #4aaaa5;
+    margin: -54px 30px 12px;
+    padding: 1px;
+    color: #fff;
+    font-size: 18px;
+}
+
+footer {
+    border-top: 8px solid #4aaaa5;
+    clear: both;
+    background: #666666;
+    text-align: center;
+    padding: 25px 25px 25px 25px;
+    width: 100%;
+    color: #fff;
+}
