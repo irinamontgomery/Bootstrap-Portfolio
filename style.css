@@ -54,11 +54,6 @@ main {
     margin: 16px auto 92px auto;
 }
 
-#irina {
-    height: 225px;
-    width: 175px;
-}
-
 .irina {
     font-size: 28px;
     padding: 25px;
@@ -81,18 +76,16 @@ section {
 }
 
 .newbox {
-    width: 250px;
-    height: 175px;
     margin: 30px;
 }
 
 .post-content {
     position: relative;
-    width: 250px;
+    width: 100%;
     bottom: 0px;
     text-align: center;
     background-color: #4aaaa5;
-    margin: -54px 30px 12px;
+    margin: -54px 30px 12px 30px;
     padding: 1px;
     color: #fff;
     font-size: 18px;
